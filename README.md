@@ -89,7 +89,7 @@ endmodule
 **RTL realization Output:** 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09b28d6b-ee97-477e-82e7-c83a1dfb14ed" />
 **RTL**
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/12112ecf-717d-4391-a8d6-b2c4ff883ae7" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a8346c89-f8ab-4ef8-b3b6-0d1e3212f3c5" />
 
 **Result:**
 
