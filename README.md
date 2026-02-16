@@ -87,9 +87,9 @@ endmodule
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2026-02-09 at 8 38 33 PM](https://github.com/user-attachments/assets/26bca06b-990f-4bbc-ba18-365d8ed3be6a)
 **RTL realization Output:** 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/8fa2e7a7-a1b9-4f05-a2c2-861e66cb0666" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09b28d6b-ee97-477e-82e7-c83a1dfb14ed" />
 **RTL**
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/9153b152-bf16-496c-b5d1-a892d02622e6" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/12112ecf-717d-4391-a8d6-b2c4ff883ae7" />
 
 **Result:**
 
