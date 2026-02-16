@@ -72,20 +72,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ```
 // exp1 - Basic Logic Gates
 
-module exp1(a,b,c,d,e);
-
+module exp1(a,b,c,d,e,f,g,h);
 input a,b;
-output c,d,e;
-
-// AND Gate
-and (c,a,b);
-
-// OR Gate
-or (d,a,b);
-
-// XOR Gate
-xor (e,a,b);
-
+output c,d,e,f,g,h;
+and  (c,a,b);
+or   (d,a,b);
+xor  (e,a,b);
+nand (f,a,b);
+nor  (g,a,b);
+xnor (h,a,b);
 endmodule
 
 ```
